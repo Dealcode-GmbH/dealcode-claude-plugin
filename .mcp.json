@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dealcode": {
+      "type": "http",
+      "url": "https://app.dealcode.ai/mcp/claude"
+    }
+  }
+}

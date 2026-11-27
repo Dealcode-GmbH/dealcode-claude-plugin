@@ -1,0 +1,13 @@
+{
+  "name": "dealcode",
+  "displayName": "dealcode",
+  "version": "1.0.0",
+  "description": "Connect Claude to your dealcode AI Workspace across sales, marketing, recruiting, and operations: shared CRM, tasks, meetings, campaigns, funnels, newsletters, social calendar, and unified inbox.",
+  "author": {
+    "name": "Dealcode GmbH",
+    "url": "https://www.dealcode.ai"
+  },
+  "license": "MIT",
+  "homepage": "https://www.dealcode.ai",
+  "repository": "https://github.com/Dealcode-GmbH/dealcode-claude-plugin"
+}
