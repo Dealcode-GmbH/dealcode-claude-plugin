@@ -8,6 +8,8 @@
     "url": "https://www.dealcode.ai"
   },
   "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
   "homepage": "https://www.dealcode.ai",
+  "privacyPolicyUrl": "https://www.dealcode.ai/en/legal/privacy-policy",
   "repository": "https://github.com/Dealcode-GmbH/dealcode-claude-plugin"
 }
